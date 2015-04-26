@@ -1,0 +1,29 @@
+//
+// Callouts
+// --------------------------------------------------
+
+.callout {
+  border-left-width: $callout-border-width;
+  border-right-width: $callout-border-right-width;
+  border-left-color: $callout-border-color;
+}
+
+.callout-primary {
+  border-right-color: $brand-primary;
+}
+
+.callout-success {
+  border-right-color: $brand-success;
+}
+
+.callout-info {
+  border-right-color: $brand-info;
+}
+
+.callout-warning {
+  border-right-color: $brand-warning;
+}
+
+.callout-danger {
+  border-right-color: $brand-danger;
+}

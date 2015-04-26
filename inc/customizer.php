@@ -2,7 +2,7 @@
 /**
  * Tehila Theme Customizer
  *
- * @package _s
+ * @package Tehila
  */
 
 /**

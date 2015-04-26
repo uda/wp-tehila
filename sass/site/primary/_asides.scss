@@ -2,3 +2,15 @@
 .archive .format-aside .entry-title {
 	display: none;
 }
+
+aside {
+  border: 1px solid #eee;
+  padding: 5px;
+  h1, .h1,
+  h2, .h2,
+  h3, .h3 {
+    margin: 3px 0;
+    padding: 2px 5px;
+    background-color: #4cae4c;
+  }
+}

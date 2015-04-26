@@ -1,0 +1,17 @@
+$bootstrap-sass-asset-helper: false !default;
+//
+// Variables
+@import "../../bootstrap/bootstrap/variables";
+
+//== Callouts
+//
+//##
+
+$callout-padding:             20px;
+$callout-margin:              20px 0;
+$callout-border-width:        1px;
+$callout-border-color:        #eee;
+$callout-border:              $callout-border-width solid $callout-border-color;
+$callout-border-right-width:  5px;
+$callout-border-radius:       3px;
+

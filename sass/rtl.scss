@@ -9,6 +9,14 @@ http://codex.wordpress.org/Right_to_Left_Language_Support
 
 */
 
+
+/*--------------------------------------------------------------
+# Bootstrap
+--------------------------------------------------------------*/
+@import "bootstrap/bootstrap-compass";
+@import "bootstrap-rtl/bootstrap-rtl-variables";
+@import "bootstrap-rtl/bootstrap-rtl";
+
 /*
 body {
 	direction: rtl;

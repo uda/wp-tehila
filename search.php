@@ -2,12 +2,12 @@
 /**
  * The template for displaying search results pages.
  *
- * @package _s
+ * @package Tehila
  */
 
 get_header(); ?>
 
-	<section id="primary" class="content-area">
+	<section id="primary" class="content-area col-md-9">
 		<main id="main" class="site-main" role="main">
 
 		<?php if ( have_posts() ) : ?>
